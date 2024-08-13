@@ -1,0 +1,1702 @@
+fileFormatVersion: 2
+guid: bdee83a6ad33d2448b63c3bd7944d653
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_0"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 189
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bf34d3e4b829a4281338c9f8033be9
+      internalID: -610232629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_1"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 189
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb08b5add97350c42b8326b9b6d9ade7
+      internalID: 132283848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_2"
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 189
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a318d0cb9c39185438a2133204abcd2a
+      internalID: -1505489268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_3"
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 255
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82875824081a6c343a019d458fd25e99
+      internalID: -1838255945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_4"
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 284
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10bc07ef9ee430458414aa11aa3c5b9
+      internalID: -577294115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_5"
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 284
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1ef7c3fbdc5c24aba0f750be509303
+      internalID: 2024526566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_6"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 253
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83d710749b6cdb49827c74a60a0e614
+      internalID: 818452331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_7"
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 252
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67059d1355f6c544ead727ff4bc0fc39
+      internalID: -638893127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_8"
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 236
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d71c14ad5c4932468ff4205b93b6c06
+      internalID: 1597739296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_9"
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 220
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd53b7aec0df9d478f62d45460defe7
+      internalID: -1872737550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_10"
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 204
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1e7b75eb4bf3d4a9c5c4b9b125733c
+      internalID: -1665614936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_11"
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 188
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc777198d6fc2324e90f54a57486ff25
+      internalID: -76165357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_12"
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 207
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56dd6acd8d591544bc854734fb31af5
+      internalID: 1770799793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_13"
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 209
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853f1af2fe442c44ba84c301519376e1
+      internalID: 252045973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_14"
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 205
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b88978756506747b259f0df69dd165
+      internalID: -1616414987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_15"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 207
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f397d3bff5adc4bb2404fdab7af065
+      internalID: -770016637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_16"
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb20b14239d4eb4ab231ad4296c59bd
+      internalID: -1829329111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_17"
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cac8b4c44ff1f409fa857f16305dd7
+      internalID: 1000543347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_18"
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 190
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fa233aee1b02d468abe58b746de2bc
+      internalID: -1583133738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_19"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 189
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d3ed628d819d14cb0587f9334b6a36
+      internalID: 1456005206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_20"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 159
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c53bc1ad28a3f449bbf45bf019a240
+      internalID: -1472636785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_21"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 92
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ed60981a4c85d4c99bacc72b22ad1b
+      internalID: -1050942226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_22"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 60
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137b429a12e582942b0ded3834cb1b8f
+      internalID: -499842491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_23"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 172
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ce3b3939c05fb418b7bdd58ef673cd
+      internalID: 967794118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_24"
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 172
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7489534416c38134c9db60d9fa4a6a04
+      internalID: 498578297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_25"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 174
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51e945d08f25f64aaf98eb965a0b2fc
+      internalID: -1285645880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_26"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 173
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da43f1ee0cacdfe448d78ebbbcfb1bba
+      internalID: 1570671478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_27"
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 172
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3c1fd9fce0dff438003d8dba9e4b15
+      internalID: -1081656614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_28"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 60
+        width: 94
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbed42c48614a945b30aaf9be5c641e
+      internalID: 966862807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_29"
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 158
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e61aac9783703488f41cd83cb77f67
+      internalID: -446798598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_30"
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 140
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b462a8e7b640e40b8c725606aa3916
+      internalID: 1905193139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_31"
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 158
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddd25b57df1f39408a80a482ec104c3
+      internalID: 78569691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_32"
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 159
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab88bb7dbb31eb4ea92c302c9169818
+      internalID: -1462318345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_33"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 124
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd301ec048bd434aa54bc40df489733
+      internalID: -392287794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_34"
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 154
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff894ccba5e5e3b4da3590aadf954905
+      internalID: 1091509285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_35"
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 140
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23bcd6a31555ef48a0e8b0ace4b1ea6
+      internalID: 1415328573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_36"
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 132
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a280eab4c2820849bad2af57ee91798
+      internalID: 353715890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_37"
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc47200cfc958a41923fef7e45ba826
+      internalID: -1214939415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_38"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 130
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4366f8c5dc8c04f8a5524869feb0e3
+      internalID: -1048306051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_39"
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 128
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c1cd7a990db6d4b85d3a8d35181637
+      internalID: 956727455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_40"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 60
+        width: 118
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d96fffeeec15cc498b7261c93b308c5
+      internalID: 1014495909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_41"
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 109
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26741161b35961140b253c33937dd17c
+      internalID: -1129235616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_42"
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 64
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f007fcb4985bf244da7f3431cd194811
+      internalID: -2092087425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_43"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 31
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b351402961229e54d8c1dc55eb21583f
+      internalID: 202354374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_44"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 31
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a837d19b5de9840833388032ef2434
+      internalID: 1749100990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_45"
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 27
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290b5c1171d83ee4f8a5ad398efe29e5
+      internalID: 1780126902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_46"
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 42
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c33923857ad774ab2a46ea54c326a8
+      internalID: -2116540639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_47"
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 37
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e98a3b2fcecf714298f5957ddb705f5
+      internalID: 86313902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_48"
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e44d1ab30d70148b11d52b78cdcd70
+      internalID: -1597978388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_49"
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 42
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173242c5668326341b855a33d3bebbf1
+      internalID: 65849323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_50"
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 42
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a92014a5c61a948bd08c24761539d4
+      internalID: -1010618150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_51"
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 42
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca8703268493114c954ab4bd217fbe1
+      internalID: -2086694260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_52"
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 42
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58e6cb0558288849b715502d97612bc
+      internalID: -1850691801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_53"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 31
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6b962a65c8b3644bd271df48f9a2fc
+      internalID: -809014571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_54"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 31
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d714d110a9b64814c91181cbca8232a3
+      internalID: -975951085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_55"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 31
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1320d7574ef37b4b8247cf0f3b291d2
+      internalID: 848136427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_56"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b0527c39156e74c8f53b6aba1493f7
+      internalID: -1245113855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_57"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496b71e05653312488cbb1e0006b9fda
+      internalID: -458285919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_58"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 9
+        width: 56
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226df07920f623348b54f7c0427baed0
+      internalID: -1719646908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_59"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 9
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a97a50a41b6854e994171e08fd159f
+      internalID: 1227341880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_60"
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 9
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ff9dede9dc38d44846aebce681a3ed
+      internalID: 1067453599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_61"
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 7
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e226f4cd579a394fa2cd40ffbfad690
+      internalID: -2146842132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_62"
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 0
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c77b397707593e41a246305864026fd
+      internalID: 1475487909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_63"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 7
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f880950fc6866944b8c1e25ae158c4d
+      internalID: -1196037642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_64"
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 7
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4568b4363f3a6fd4aab3fffa70d7c8cc
+      internalID: 968439402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_65"
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 7
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a60516c603941344a7a4d2e61d7b35c
+      internalID: 1807700382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_66"
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 2
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19d23960d91b6b4d9f030cd6f49fa9a
+      internalID: -2061504085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_67"
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e1c639739e1bf4bb91ac89ee7c2864
+      internalID: 1837787868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_68"
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 7
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d14c0dc7ff92045a5038b1ac376b27
+      internalID: -1333162802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_69"
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 7
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c1f387a66a22e419f0192806c55b38
+      internalID: 1583361916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u573A\u666F7tilemap_70"
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 7
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e77861ce2904484989a0f173bb161c6
+      internalID: 1810029894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "\u573A\u666F7tilemap_0": -610232629
+      "\u573A\u666F7tilemap_1": 132283848
+      "\u573A\u666F7tilemap_10": -1665614936
+      "\u573A\u666F7tilemap_11": -76165357
+      "\u573A\u666F7tilemap_12": 1770799793
+      "\u573A\u666F7tilemap_13": 252045973
+      "\u573A\u666F7tilemap_14": -1616414987
+      "\u573A\u666F7tilemap_15": -770016637
+      "\u573A\u666F7tilemap_16": -1829329111
+      "\u573A\u666F7tilemap_17": 1000543347
+      "\u573A\u666F7tilemap_18": -1583133738
+      "\u573A\u666F7tilemap_19": 1456005206
+      "\u573A\u666F7tilemap_2": -1505489268
+      "\u573A\u666F7tilemap_20": -1472636785
+      "\u573A\u666F7tilemap_21": -1050942226
+      "\u573A\u666F7tilemap_22": -499842491
+      "\u573A\u666F7tilemap_23": 967794118
+      "\u573A\u666F7tilemap_24": 498578297
+      "\u573A\u666F7tilemap_25": -1285645880
+      "\u573A\u666F7tilemap_26": 1570671478
+      "\u573A\u666F7tilemap_27": -1081656614
+      "\u573A\u666F7tilemap_28": 966862807
+      "\u573A\u666F7tilemap_29": -446798598
+      "\u573A\u666F7tilemap_3": -1838255945
+      "\u573A\u666F7tilemap_30": 1905193139
+      "\u573A\u666F7tilemap_31": 78569691
+      "\u573A\u666F7tilemap_32": -1462318345
+      "\u573A\u666F7tilemap_33": -392287794
+      "\u573A\u666F7tilemap_34": 1091509285
+      "\u573A\u666F7tilemap_35": 1415328573
+      "\u573A\u666F7tilemap_36": 353715890
+      "\u573A\u666F7tilemap_37": -1214939415
+      "\u573A\u666F7tilemap_38": -1048306051
+      "\u573A\u666F7tilemap_39": 956727455
+      "\u573A\u666F7tilemap_4": -577294115
+      "\u573A\u666F7tilemap_40": 1014495909
+      "\u573A\u666F7tilemap_41": -1129235616
+      "\u573A\u666F7tilemap_42": -2092087425
+      "\u573A\u666F7tilemap_43": 202354374
+      "\u573A\u666F7tilemap_44": 1749100990
+      "\u573A\u666F7tilemap_45": 1780126902
+      "\u573A\u666F7tilemap_46": -2116540639
+      "\u573A\u666F7tilemap_47": 86313902
+      "\u573A\u666F7tilemap_48": -1597978388
+      "\u573A\u666F7tilemap_49": 65849323
+      "\u573A\u666F7tilemap_5": 2024526566
+      "\u573A\u666F7tilemap_50": -1010618150
+      "\u573A\u666F7tilemap_51": -2086694260
+      "\u573A\u666F7tilemap_52": -1850691801
+      "\u573A\u666F7tilemap_53": -809014571
+      "\u573A\u666F7tilemap_54": -975951085
+      "\u573A\u666F7tilemap_55": 848136427
+      "\u573A\u666F7tilemap_56": -1245113855
+      "\u573A\u666F7tilemap_57": -458285919
+      "\u573A\u666F7tilemap_58": -1719646908
+      "\u573A\u666F7tilemap_59": 1227341880
+      "\u573A\u666F7tilemap_6": 818452331
+      "\u573A\u666F7tilemap_60": 1067453599
+      "\u573A\u666F7tilemap_61": -2146842132
+      "\u573A\u666F7tilemap_62": 1475487909
+      "\u573A\u666F7tilemap_63": -1196037642
+      "\u573A\u666F7tilemap_64": 968439402
+      "\u573A\u666F7tilemap_65": 1807700382
+      "\u573A\u666F7tilemap_66": -2061504085
+      "\u573A\u666F7tilemap_67": 1837787868
+      "\u573A\u666F7tilemap_68": -1333162802
+      "\u573A\u666F7tilemap_69": 1583361916
+      "\u573A\u666F7tilemap_7": -638893127
+      "\u573A\u666F7tilemap_70": 1810029894
+      "\u573A\u666F7tilemap_8": 1597739296
+      "\u573A\u666F7tilemap_9": -1872737550
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
